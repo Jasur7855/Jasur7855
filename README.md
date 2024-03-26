@@ -4,13 +4,13 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/%D1%84%D0%B0%D1%82%D1%85%D1%83%D0%BB%D0%BB%D0%B0-%D1%80%D0%B0%D1%88%D0%B8%D0%B4%D0%BE%D0%B2-50aab0243/">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/FathullaRa">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://t.me/fathullarashidov" target="_blank" rel="noreferrer">
+  <a href="https://t.me/Woodotaaa" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=TELEGRAM&logoColor=FFFFFF"/>
   </a>
 </div>
@@ -76,10 +76,3 @@
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=FFFFFF"/>
 </p>
 
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fathulla&theme=dark&border_radius=10)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fathulla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
